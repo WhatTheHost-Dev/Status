@@ -5,18 +5,22 @@ repo: Status # The name of this repository
 sites:
   - name: WhatTheHost Webseite
     url: https://www.whatthehost.de
+    icon: https://www.whatthehost.de/assets/favicons/favicon-192.png
   - name: WhatTheHost Forum
     url: https://community.whatthehost.de
+    icon: https://www.whatthehost.de/assets/favicons/favicon-192.png
   - name: WhatTheHost Plesk Host
     url: https://ph1.whatthehost.de
+    icon: https://www.whatthehost.de/assets/favicons/favicon-192.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.whatthehost.de
+  favicon: https://www.whatthehost.de/assets/favicons/favicon-192.png
   # baseUrl: /your-repo-name
-  logoUrl: https://www.whatthehost.de/assets/favicons/favicon-192.png
-  name: WhatTheHost Status
+  logoUrl: https://www.whatthehost.de/assets/img/logo.png
+  name:
   introTitle: "Willkommen auf unserer Status Seite von **WhatTheHost**!"
   introMessage: Hier findest du aktuelle Störungen unserer Dienstleistungen.
   navbar:
