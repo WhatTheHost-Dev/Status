@@ -15,8 +15,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.whatthehost.de
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: WhatTheHost
+  logoUrl: https://www.whatthehost.de/assets/img/logo.png
+  # name: WhatTheHost
   introTitle: "Willkommen auf unserer Status Seite von **WhatTheHost**!"
   introMessage: Hier findest du aktuelle Störungen unserer Dienstleistungen.
   navbar:
