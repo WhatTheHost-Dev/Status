@@ -10,7 +10,7 @@ sites:
     url: https://community.whatthehost.de
     icon: https://www.whatthehost.de/assets/favicons/favicon-192.png
   - name: WhatTheHost Plesk Host
-    url: https://ph1.whatthehost.de
+    url: $https://ph1.whatthehost.de
     icon: https://www.whatthehost.de/assets/favicons/favicon-192.png
 
 status-website:
