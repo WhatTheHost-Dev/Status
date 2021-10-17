@@ -19,8 +19,8 @@ status-website:
   cname: status.whatthehost.de
   favicon: https://www.whatthehost.de/assets/favicons/favicon-192.png
   # baseUrl: /your-repo-name
-  logoUrl: https://www.whatthehost.de/assets/img/logo.png
-  name:
+  logoUrl: https://www.whatthehost.de/assets/favicons/favicon-192.png
+  name: WhatTheHost Status
   introTitle: "Willkommen auf unserer Status Seite von **WhatTheHost**!"
   introMessage: Hier findest du aktuelle Störungen unserer Dienstleistungen.
   navbar:
