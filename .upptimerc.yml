@@ -6,6 +6,9 @@ sites:
   - name: WhatTheHost Webseite
     url: https://www.whatthehost.de
     icon: https://www.whatthehost.de/assets/favicons/favicon-192.png
+  - name: WhatTheHost Livechat
+    url: $CH1
+    icon: https://www.whatthehost.de/assets/favicons/favicon-192.png
   - name: WhatTheHost Forum
     url: https://community.whatthehost.de
     icon: https://www.whatthehost.de/assets/favicons/favicon-192.png
