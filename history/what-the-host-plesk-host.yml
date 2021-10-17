@@ -1,7 +1,7 @@
-url: https://ph1.whatthehost.de
-status: up
-code: 200
-responseTime: 1189
-lastUpdated: 2021-10-17T19:21:46.906Z
+url: $https://ph1.whatthehost.de
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-10-17T20:05:31.972Z
 startTime: Sun Oct 17 2021 18:52:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
