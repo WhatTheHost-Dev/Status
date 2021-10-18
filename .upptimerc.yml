@@ -37,21 +37,7 @@ status-website:
   name: WhatTheHost Status
   introTitle: "Willkommen auf unserer Status Seite von **WhatTheHost**!"
   introMessage: Hier findest du aktuelle Störungen unserer Dienstleistungen.
-  js: 
-    "(function(d,t) {
-        var BASE_URL="https://chat.whatthehost.de";
-        var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-        g.src=BASE_URL+"/packs/js/sdk.js";
-        g.defer = true;
-        g.async = true;
-        s.parentNode.insertBefore(g,s);
-        g.onload=function(){
-          window.chatwootSDK.run({
-            websiteToken: 'F8Asm9aL2V1aZhMVKUAY6qQk',
-            baseUrl: BASE_URL
-          })
-        }
-      })(document,"script");"
+  js: "!function(e,t){var a="https://chat.whatthehost.de",n=e.createElement(t),t=e.getElementsByTagName(t)[0];n.src=a+"/packs/js/sdk.js",n.defer=!0,n.async=!0,t.parentNode.insertBefore(n,t),n.onload=function(){window.chatwootSDK.run({websiteToken:"F8Asm9aL2V1aZhMVKUAY6qQk",baseUrl:a})}}(document,"script");"
     
   navbar:
     - title: Webseite
