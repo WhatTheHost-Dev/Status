@@ -44,6 +44,64 @@ status-website:
       href: /
     - title: Discord
       href: https://discord.gg/vcPEWQt
+      
+i18n:
+  activeIncidents: Aktive Vorfälle
+  allSystemsOperational: Alle Systeme sind in Ordnung
+  incidentReport: "Vorfall bericht #$NUMBER →"
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS Beiträgen
+  incidentTitle: Vorfall $NUMBER Details
+  incidentDetails: Vorfalldetails
+  incidentFixed: Gelöst
+  incidentOngoing: Laufend
+  incidentOpenedAt: Geöffnet um
+  incidentClosedAt: Geschlossen um
+  incidentSubscribe: Abonniere für updates
+  incidentViewOnGitHub: Auf GitHub ansehen
+  incidentCommentSummary: Veröffentlicht am $DATE von $AUTHOR
+  incidentBack: ← Zurück zu allen Vorfällen
+  pastIncidents: Vergangene Vorfälle
+  pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS Beiträgen
+  liveStatus: Live-Status
+  overallUptime: "Gesamtbetriebszeit: $UPTIME"
+  overallUptimeTitle: Gesamtbetriebszeit
+  averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Antwort
+  sevelDayResponseTime: 7 Tage Reaktionszeit
+  responseTimeMs: Reaktionszeit (ms)
+  up: Erreichbar
+  down: Nicht Erreichbar
+  degraded: Beeinträchtigt
+  ms: ms
+  loading: Wird geladen
+  navGitHub: GitHub
+  footer: Diese Seite ist [Open Source]($REPO), unterstützt von [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Rate limit exceedeed
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: An error occurred
+  errorIntro: An error occurred in trying to get the latest status details.
+  errorText: You can try again in a few moments.
+  errorHome: Go to the homepage
+  pastScheduledMaintenance: Vergangene geplante Wartung
+  scheduledMaintenance: Geplante Wartung
+  scheduledMaintenanceSummaryStarted: Gestartet am $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Beginnt am $DATE für $DURATION Minuten
+  startedAt: Fing an bei
+  startsAt: Startet um
+  duration: Dauer
+  durationMin: $DURATION Minuten
+  incidentCompleted: Vollendet
+  incidentScheduled: Geplant
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
