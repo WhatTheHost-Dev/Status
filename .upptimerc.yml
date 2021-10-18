@@ -37,6 +37,22 @@ status-website:
   name: WhatTheHost Status
   introTitle: "Willkommen auf unserer Status Seite von **WhatTheHost**!"
   introMessage: Hier findest du aktuelle Störungen unserer Dienstleistungen.
+  js: 
+    "(function(d,t) {
+        var BASE_URL="https://chat.whatthehost.de";
+        var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src=BASE_URL+"/packs/js/sdk.js";
+        g.defer = true;
+        g.async = true;
+        s.parentNode.insertBefore(g,s);
+        g.onload=function(){
+          window.chatwootSDK.run({
+            websiteToken: 'F8Asm9aL2V1aZhMVKUAY6qQk',
+            baseUrl: BASE_URL
+          })
+        }
+      })(document,"script");"
+    
   navbar:
     - title: Webseite
       href: https://www.whatthehost.de/
@@ -66,7 +82,7 @@ i18n:
   overallUptime: "Gesamtbetriebszeit: $UPTIME"
   overallUptimeTitle: Gesamtbetriebszeit
   averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
-  averageResponseTimeTitle: Durchschnittliche Antwort
+  averageResponseTimeTitle: Durchschnittliche Reaktionszeit
   sevelDayResponseTime: 7 Tage Reaktionszeit
   responseTimeMs: Reaktionszeit (ms)
   up: Erreichbar
