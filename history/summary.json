@@ -40,19 +40,19 @@
     "url": "$CHAT",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "livechat",
-    "status": "down",
-    "uptime": "10.65%",
-    "uptimeDay": "10.65%",
-    "uptimeWeek": "10.65%",
-    "uptimeMonth": "10.65%",
-    "uptimeYear": "10.65%",
-    "time": 649,
-    "timeDay": 649,
-    "timeWeek": 649,
-    "timeMonth": 649,
-    "timeYear": 649,
+    "status": "up",
+    "uptime": "48.19%",
+    "uptimeDay": "48.19%",
+    "uptimeWeek": "48.19%",
+    "uptimeMonth": "48.19%",
+    "uptimeYear": "48.19%",
+    "time": 517,
+    "timeDay": 517,
+    "timeWeek": 517,
+    "timeMonth": 517,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2021-10-18": 0
+      "2021-10-18": 17
     }
   },
   {
