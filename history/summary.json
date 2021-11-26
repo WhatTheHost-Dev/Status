@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 874,
-    "timeWeek": 714,
+    "time": 713,
+    "timeDay": 860,
+    "timeWeek": 763,
     "timeMonth": 706,
-    "timeYear": 709,
+    "timeYear": 713,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 192,
-    "timeWeek": 160,
-    "timeMonth": 163,
-    "timeYear": 166,
+    "time": 167,
+    "timeDay": 181,
+    "timeWeek": 170,
+    "timeMonth": 162,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 476,
-    "timeDay": 497,
-    "timeWeek": 443,
-    "timeMonth": 479,
-    "timeYear": 476,
+    "time": 477,
+    "timeDay": 504,
+    "timeWeek": 460,
+    "timeMonth": 474,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2021-10-18": 17
     }
@@ -61,19 +61,17 @@
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "forum",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 612,
-    "timeDay": 1284,
-    "timeWeek": 722,
-    "timeMonth": 616,
+    "timeDay": 1214,
+    "timeWeek": 733,
+    "timeMonth": 615,
     "timeYear": 612,
-    "dailyMinutesDown": {
-      "2021-11-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plesk Host 1",
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 902,
-    "timeDay": 1029,
-    "timeWeek": 848,
-    "timeMonth": 914,
-    "timeYear": 902,
+    "time": 905,
+    "timeDay": 1018,
+    "timeWeek": 904,
+    "timeMonth": 908,
+    "timeYear": 905,
     "dailyMinutesDown": {}
   },
   {
@@ -105,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 756,
-    "timeDay": 797,
-    "timeWeek": 663,
-    "timeMonth": 722,
+    "timeDay": 751,
+    "timeWeek": 690,
+    "timeMonth": 711,
     "timeYear": 756,
     "dailyMinutesDown": {}
   },
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
+    "time": 131,
     "timeDay": 157,
-    "timeWeek": 139,
-    "timeMonth": 131,
-    "timeYear": 130,
+    "timeWeek": 153,
+    "timeMonth": 130,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   }
 ]
