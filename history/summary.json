@@ -6,18 +6,16 @@
     "slug": "webseite",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 681,
-    "timeDay": 466,
-    "timeWeek": 541,
+    "timeDay": 548,
+    "timeWeek": 566,
     "timeMonth": 564,
     "timeYear": 681,
-    "dailyMinutesDown": {
-      "2022-02-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
@@ -26,18 +24,16 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 111,
-    "timeWeek": 147,
+    "timeDay": 127,
+    "timeWeek": 153,
     "timeMonth": 152,
     "timeYear": 168,
-    "dailyMinutesDown": {
-      "2022-02-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Livechat",
@@ -46,17 +42,16 @@
     "slug": "livechat",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 612,
-    "timeDay": 415,
-    "timeWeek": 510,
-    "timeMonth": 948,
-    "timeYear": 612,
+    "time": 611,
+    "timeDay": 454,
+    "timeWeek": 520,
+    "timeMonth": 950,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2022-02-21": 9,
       "2021-10-18": 17
     }
   },
@@ -66,18 +61,17 @@
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "forum",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 637,
-    "timeDay": 661,
-    "timeWeek": 764,
-    "timeMonth": 759,
-    "timeYear": 637,
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 638,
+    "timeDay": 686,
+    "timeWeek": 767,
+    "timeMonth": 768,
+    "timeYear": 638,
     "dailyMinutesDown": {
-      "2022-02-21": 9,
       "2022-01-15": 23
     }
   },
@@ -92,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 620,
-    "timeWeek": 882,
+    "time": 899,
+    "timeDay": 933,
+    "timeWeek": 923,
     "timeMonth": 865,
-    "timeYear": 898,
+    "timeYear": 899,
     "dailyMinutesDown": {}
   },
   {
@@ -106,18 +100,16 @@
     "slug": "game-panel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 695,
-    "timeDay": 443,
-    "timeWeek": 595,
-    "timeMonth": 619,
+    "timeDay": 526,
+    "timeWeek": 622,
+    "timeMonth": 621,
     "timeYear": 695,
-    "dailyMinutesDown": {
-      "2022-02-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Game Host 1",
@@ -132,7 +124,7 @@
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 0,
-    "timeWeek": 123,
+    "timeWeek": 131,
     "timeMonth": 121,
     "timeYear": 128,
     "dailyMinutesDown": {}
