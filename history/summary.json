@@ -4,37 +4,35 @@
     "url": "https://www.whatthehost.de",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "webseite",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 676,
-    "timeDay": 692,
-    "timeWeek": 570,
-    "timeMonth": 556,
-    "timeYear": 676,
-    "dailyMinutesDown": {
-      "2022-03-01": 18
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 683,
+    "timeDay": 1223,
+    "timeWeek": 718,
+    "timeMonth": 594,
+    "timeYear": 683,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
     "url": "https://www.whatthehost.de",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 185,
-    "timeWeek": 155,
-    "timeMonth": 152,
-    "timeYear": 167,
+    "time": 174,
+    "timeDay": 691,
+    "timeWeek": 285,
+    "timeMonth": 185,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -80,9 +78,9 @@
     "slug": "plesk-host-1",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 898,
     "timeDay": 963,
@@ -90,7 +88,7 @@
     "timeMonth": 881,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2022-03-01": 15
+      "2022-03-01": 18
     }
   },
   {
