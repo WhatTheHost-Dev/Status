@@ -4,28 +4,30 @@
     "url": "https://www.whatthehost.de",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 676,
     "timeDay": 692,
     "timeWeek": 570,
     "timeMonth": 556,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 3
+    }
   },
   {
     "name": "Dashboard",
     "url": "https://www.whatthehost.de",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
@@ -33,7 +35,9 @@
     "timeWeek": 155,
     "timeMonth": 152,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 2
+    }
   },
   {
     "name": "Livechat",
@@ -41,38 +45,36 @@
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "livechat",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 515,
     "timeWeek": 558,
     "timeMonth": 519,
     "timeYear": 609,
-    "dailyMinutesDown": {
-      "2021-10-18": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forum",
     "url": "https://community.whatthehost.de",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "forum",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 652,
     "timeDay": 1063,
     "timeWeek": 906,
     "timeMonth": 860,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2022-01-15": 23
+      "2022-03-01": 0
     }
   },
   {
@@ -80,9 +82,9 @@
     "url": "$PH1",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "plesk-host-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +93,9 @@
     "timeWeek": 884,
     "timeMonth": 881,
     "timeYear": 898,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Game Panel",
