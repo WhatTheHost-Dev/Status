@@ -5,18 +5,18 @@
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "webseite",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 676,
     "timeDay": 692,
     "timeWeek": 570,
     "timeMonth": 556,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2022-03-01": 3
+      "2022-03-01": 18
     }
   },
   {
@@ -26,8 +26,8 @@
     "slug": "dashboard",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
@@ -35,9 +35,7 @@
     "timeWeek": 155,
     "timeMonth": 152,
     "timeYear": 167,
-    "dailyMinutesDown": {
-      "2022-03-01": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Livechat",
@@ -62,20 +60,18 @@
     "url": "https://community.whatthehost.de",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "forum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 1063,
-    "timeWeek": 906,
-    "timeMonth": 860,
-    "timeYear": 652,
-    "dailyMinutesDown": {
-      "2022-03-01": 0
-    }
+    "time": 655,
+    "timeDay": 1139,
+    "timeWeek": 945,
+    "timeMonth": 871,
+    "timeYear": 655,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plesk Host 1",
@@ -83,18 +79,18 @@
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "plesk-host-1",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 898,
     "timeDay": 963,
     "timeWeek": 884,
     "timeMonth": 881,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-01": 15
     }
   },
   {
