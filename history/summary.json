@@ -77,18 +77,19 @@
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "plesk-host-1",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 901,
     "timeDay": 1112,
     "timeWeek": 972,
     "timeMonth": 883,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-02": 16,
+      "2022-03-01": 2
     }
   },
   {
