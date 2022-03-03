@@ -7,7 +7,7 @@ sites:
     url: https://www.whatthehost.de
     icon: https://www.whatthehost.de/assets/favicons/favicon-192.png
   - name: Dashboard
-    url: https://www.whatthehost.de
+    url: https://dashboard.whatthehost.de
     icon: https://www.whatthehost.de/assets/favicons/favicon-192.png
   - name: Livechat
     url: $CHAT
@@ -46,6 +46,12 @@ status-website:
     - title: Discord
       href: https://discord.gg/vcPEWQt
       
+NOTIFICATION_EMAIL_SMTP: true
+NOTIFICATION_EMAIL_SMTP_PORT: 587
+NOTIFICATION_EMAIL_SMTP_HOST: $PH1
+NOTIFICATION_EMAIL_SMTP_USERNAME: $E_MAIL_USERNAME
+NOTIFICATION_EMAIL_SMTP_PASSWORD: $E_MAIL_PASSWORD
+
 i18n:
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme sind in Ordnung
