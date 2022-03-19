@@ -94,9 +94,9 @@
     "url": "$GP",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "game-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 594,
     "timeMonth": 645,
     "timeYear": 689,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-19": 0
+    }
   },
   {
     "name": "Game Host 1",
