@@ -4,19 +4,19 @@
     "url": "https://www.whatthehost.de",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "webseite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 2111,
-    "timeWeek": 953,
-    "timeMonth": 776,
-    "timeYear": 687,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 688,
+    "timeDay": 1699,
+    "timeWeek": 945,
+    "timeMonth": 779,
+    "timeYear": 688,
     "dailyMinutesDown": {
-      "2022-04-28": 2
+      "2022-04-28": 15
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dashboard.whatthehost.de",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 8844,
-    "timeWeek": 3446,
-    "timeMonth": 2242,
-    "timeYear": 725,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 730,
+    "timeDay": 6478,
+    "timeWeek": 3257,
+    "timeMonth": 2227,
+    "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-04-28": 2
+      "2022-04-28": 15
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$CHAT",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "livechat",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 594,
-    "timeWeek": 473,
-    "timeMonth": 542,
-    "timeYear": 587,
+    "time": 588,
+    "timeDay": 662,
+    "timeWeek": 505,
+    "timeMonth": 548,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2022-04-28": 0
+      "2022-04-28": 13
     }
   },
   {
