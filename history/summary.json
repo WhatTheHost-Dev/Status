@@ -4,10 +4,10 @@
     "url": "https://www.whatthehost.de",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
@@ -16,6 +16,7 @@
     "timeMonth": 637,
     "timeYear": 678,
     "dailyMinutesDown": {
+      "2022-06-05": 1,
       "2022-04-28": 15
     }
   },
@@ -42,18 +43,20 @@
     "url": "$CHAT",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "livechat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 681,
-    "timeWeek": 519,
-    "timeMonth": 520,
-    "timeYear": 576,
-    "dailyMinutesDown": {}
+    "time": 606,
+    "timeDay": 4216,
+    "timeWeek": 1423,
+    "timeMonth": 732,
+    "timeYear": 606,
+    "dailyMinutesDown": {
+      "2022-06-05": 0
+    }
   },
   {
     "name": "Forum",
