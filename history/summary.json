@@ -114,9 +114,9 @@
     "url": "$GH1",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "game-host-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +125,8 @@
     "timeWeek": 124,
     "timeMonth": 120,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-10": 0
+    }
   }
 ]
