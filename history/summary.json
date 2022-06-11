@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 677,
-    "timeDay": 477,
-    "timeWeek": 648,
-    "timeMonth": 626,
+    "timeDay": 505,
+    "timeWeek": 644,
+    "timeMonth": 617,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2022-04-28": 15
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 903,
-    "timeDay": 1699,
-    "timeWeek": 1781,
-    "timeMonth": 1683,
-    "timeYear": 903,
+    "time": 906,
+    "timeDay": 1591,
+    "timeWeek": 1772,
+    "timeMonth": 1677,
+    "timeYear": 906,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 367,
-    "timeWeek": 1347,
-    "timeMonth": 728,
-    "timeYear": 604,
+    "time": 603,
+    "timeDay": 369,
+    "timeWeek": 1339,
+    "timeMonth": 724,
+    "timeYear": 603,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 939,
-    "timeWeek": 884,
-    "timeMonth": 864,
-    "timeYear": 750,
+    "time": 751,
+    "timeDay": 876,
+    "timeWeek": 899,
+    "timeMonth": 866,
+    "timeYear": 751,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 722,
-    "timeWeek": 908,
-    "timeMonth": 874,
-    "timeYear": 906,
+    "time": 905,
+    "timeDay": 718,
+    "timeWeek": 921,
+    "timeMonth": 868,
+    "timeYear": 905,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 394,
-    "timeWeek": 594,
-    "timeMonth": 595,
-    "timeYear": 655,
+    "time": 654,
+    "timeDay": 425,
+    "timeWeek": 587,
+    "timeMonth": 589,
+    "timeYear": 654,
     "dailyMinutesDown": {}
   },
   {
@@ -116,17 +116,15 @@
     "slug": "game-host-1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 106,
-    "timeWeek": 124,
-    "timeMonth": 120,
+    "timeDay": 108,
+    "timeWeek": 125,
+    "timeMonth": 119,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2022-06-10": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
