@@ -25,11 +25,11 @@
     "url": "https://dashboard.whatthehost.de",
     "icon": "https://www.whatthehost.de/assets/favicons/favicon-192.png",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 952,
     "timeDay": 1821,
@@ -37,7 +37,7 @@
     "timeMonth": 1581,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2022-06-21": 15
+      "2022-06-21": 0
     }
   },
   {
@@ -47,18 +47,16 @@
     "slug": "livechat",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
     "timeDay": 536,
     "timeWeek": 465,
     "timeMonth": 646,
     "timeYear": 593,
-    "dailyMinutesDown": {
-      "2022-06-21": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forum",
@@ -67,18 +65,16 @@
     "slug": "forum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 753,
     "timeDay": 869,
     "timeWeek": 756,
     "timeMonth": 824,
     "timeYear": 753,
-    "dailyMinutesDown": {
-      "2022-06-21": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plesk Host 1",
