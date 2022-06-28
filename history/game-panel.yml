@@ -1,7 +1,7 @@
 url: $GP
-status: down
-code: 500
-responseTime: 683
-lastUpdated: 2022-06-28T10:17:53.848Z
+status: up
+code: 200
+responseTime: 505
+lastUpdated: 2022-06-28T10:30:49.572Z
 startTime: Mon Oct 18 2021 00:01:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
