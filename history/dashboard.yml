@@ -1,7 +1,7 @@
 url: https://dashboard.whatthehost.de
-status: up
-code: 200
-responseTime: 1524
-lastUpdated: 2022-06-29T11:01:14.201Z
+status: down
+code: 403
+responseTime: 152
+lastUpdated: 2022-06-29T19:57:48.604Z
 startTime: Mon Oct 18 2021 00:01:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
