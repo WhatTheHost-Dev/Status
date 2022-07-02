@@ -6,9 +6,9 @@
     "slug": "webseite",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 665,
     "timeDay": 1214,
@@ -16,7 +16,7 @@
     "timeMonth": 617,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2022-07-01": 30,
+      "2022-07-01": 25,
       "2022-06-30": 16,
       "2022-06-29": 35,
       "2022-06-21": 16,
@@ -30,9 +30,9 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 1006,
     "timeDay": 1881,
@@ -40,7 +40,7 @@
     "timeMonth": 1463,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2022-07-01": 29,
+      "2022-07-01": 24,
       "2022-06-30": 16,
       "2022-06-29": 35
     }
@@ -52,9 +52,9 @@
     "slug": "livechat",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 568,
     "timeDay": 357,
@@ -62,7 +62,6 @@
     "timeMonth": 539,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2022-07-01": 5,
       "2022-06-30": 16,
       "2022-06-29": 35
     }
@@ -74,9 +73,9 @@
     "slug": "forum",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 739,
     "timeDay": 645,
@@ -84,7 +83,7 @@
     "timeMonth": 717,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2022-07-01": 27,
+      "2022-07-01": 22,
       "2022-06-30": 16,
       "2022-06-29": 34
     }
